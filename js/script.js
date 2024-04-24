@@ -8,6 +8,7 @@ menuIcon.onclick =()=>{
     navbar.classList.toggle('active'); 
 }
 
+
 //-----------------liens actifs de la section scrolle---------------------------------------------
 window.addEventListener('scroll', () => {
   const top = window.scrollY; // Position actuelle du défilement
@@ -26,6 +27,7 @@ window.addEventListener('scroll', () => {
           link.classList.remove('active'); // Sinon, supprime  classe active
       }
   });
+
 
 //-----------------barre de navigation collante---------------------------------------------
 let header = document.querySelector('header');
