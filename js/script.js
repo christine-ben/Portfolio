@@ -52,7 +52,7 @@ ScrollReveal().reveal('.Accueil-content p, .about-content', { origin:'right' });
 
 //typed js--------------------------------------------------------
 const typed = new Typed('.multiple-text', {
-    strings: ['Développeuse Frontend', 'Intégratrice Web', 'Technicien(ne) Support de Proximité Informatique'],
+    strings: ['Développeuse Frontend', 'Intégratrice Web', 'Technicienne Support de Proximité Informatique'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
